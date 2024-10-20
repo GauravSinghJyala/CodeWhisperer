@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GauravSinghJyala
-- 👀 I’m interested in learning more and collaberate 
+- 👀 I’m interested in making Discord bots and Websites 
 - 🌱 I’m currently learning Python & C
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me @gauravjyala on Discord or GauravJyala on Telegram
