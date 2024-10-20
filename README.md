@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GauravSinghJyala
 - 👀 I’m interested in learning more and collaberate 
-- 🌱 I’m currently learning Python, MySQL and AI
+- 🌱 I’m currently learning Python & C
 - 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me @gjyala1414 on IG or GauravJyala on Telegram
+- 📫 How to reach me @gauravjyala on Discord or GauravJyala on Telegram
 
 <!---
 GauravSinghJyala/GauravSinghJyala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
